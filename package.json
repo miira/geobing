@@ -20,11 +20,11 @@
   "license": "BSD",
   "dependencies": {
     "underscore": "*",
-    "querystring": "*",
-    "optimist": "~0.6.0"
+    "querystring": "*"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "optimist": "~0.6.0"
   },
   "_from": "geobing",
   "readmeFilename": "README.md",
